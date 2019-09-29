@@ -1,2 +1,2 @@
-# img-bucket
+# bucket
 图床
