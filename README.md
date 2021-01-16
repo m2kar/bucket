@@ -12,4 +12,5 @@ https://cdn.jsdelivr.net/gh/m2kar/bucket/<path>
 
 ```
 https://cdn.jsdelivr.net/gh/m2kar/bucket/img/1568962383377.png
+https://cdn.jsdelivr.net/gh/m2kar/bucket/annex/sub-bj
 ```
